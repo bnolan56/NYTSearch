@@ -1,3 +1,8 @@
-/* body {
+body {
+  max-width: 100%;
+}
 
-} */
+p#clear-results {
+  display: inline-block;;
+  margin-left: .5rem;
+}
